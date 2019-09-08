@@ -1,7 +1,7 @@
-import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
-import TicTacToe from './TicTacToe'
+import React, { Component } from "react";
+import logo from "./logo.svg";
+import "./App.css";
+import TicTacToe from "./TicTacToe";
 
 /* Changes from original tutorial
  *  - Here we import the tic-tac-toe game from a module
